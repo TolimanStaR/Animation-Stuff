@@ -1,0 +1,2396 @@
+Wavefront OBJ material file
+# Contains 173 materials
+
+newmtl grass_block_top
+# Ns 0
+# Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0 0 0
+# map_Ka textures/grass_block_top_y.png
+# for G3D, to make textures look blocky:
+interpolateMode NEAREST_MAGNIFICATION_TRILINEAR_MIPMAP_MINIFICATION
+map_Kd textures/grass_block_top_y.png
+# illum 2
+# d 1
+# Tr 0
+
+newmtl stone
+# Ns 0
+# Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0 0 0
+# map_Ka textures/stone.png
+# for G3D, to make textures look blocky:
+interpolateMode NEAREST_MAGNIFICATION_TRILINEAR_MIPMAP_MINIFICATION
+map_Kd textures/stone.png
+# illum 2
+# d 1
+# Tr 0
+
+newmtl dirt
+# Ns 0
+# Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0 0 0
+# map_Ka textures/dirt.png
+# for G3D, to make textures look blocky:
+interpolateMode NEAREST_MAGNIFICATION_TRILINEAR_MIPMAP_MINIFICATION
+map_Kd textures/dirt.png
+# illum 2
+# d 1
+# Tr 0
+
+newmtl grass_block_side
+# Ns 0
+# Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0 0 0
+# map_Ka textures/grass_block_side_y.png
+# for G3D, to make textures look blocky:
+interpolateMode NEAREST_MAGNIFICATION_TRILINEAR_MIPMAP_MINIFICATION
+map_Kd textures/grass_block_side_y.png
+#map_d textures/grass_block_side_y.png
+# illum 2
+# d 1
+# Tr 0
+
+newmtl oak_planks
+# Ns 0
+# Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0 0 0
+# map_Ka textures/oak_planks.png
+# for G3D, to make textures look blocky:
+interpolateMode NEAREST_MAGNIFICATION_TRILINEAR_MIPMAP_MINIFICATION
+map_Kd textures/oak_planks.png
+# illum 2
+# d 1
+# Tr 0
+
+newmtl cobweb
+# Ns 0
+# Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0 0 0
+# map_Ka textures/cobweb.png
+# for G3D, to make textures look blocky:
+interpolateMode NEAREST_MAGNIFICATION_TRILINEAR_MIPMAP_MINIFICATION
+map_Kd textures/cobweb.png
+#map_d textures/cobweb.png
+# illum 2
+# d 1
+# Tr 0
+
+newmtl poppy
+# Ns 0
+# Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0 0 0
+# map_Ka textures/poppy.png
+# for G3D, to make textures look blocky:
+interpolateMode NEAREST_MAGNIFICATION_TRILINEAR_MIPMAP_MINIFICATION
+map_Kd textures/poppy.png
+#map_d textures/poppy.png
+# illum 2
+# d 1
+# Tr 0
+
+newmtl dandelion
+# Ns 0
+# Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0 0 0
+# map_Ka textures/dandelion.png
+# for G3D, to make textures look blocky:
+interpolateMode NEAREST_MAGNIFICATION_TRILINEAR_MIPMAP_MINIFICATION
+map_Kd textures/dandelion.png
+#map_d textures/dandelion.png
+# illum 2
+# d 1
+# Tr 0
+
+newmtl oak_sapling
+# Ns 0
+# Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0 0 0
+# map_Ka textures/oak_sapling.png
+# for G3D, to make textures look blocky:
+interpolateMode NEAREST_MAGNIFICATION_TRILINEAR_MIPMAP_MINIFICATION
+map_Kd textures/oak_sapling.png
+#map_d textures/oak_sapling.png
+# illum 2
+# d 1
+# Tr 0
+
+newmtl cobblestone
+# Ns 0
+# Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0 0 0
+# map_Ka textures/cobblestone.png
+# for G3D, to make textures look blocky:
+interpolateMode NEAREST_MAGNIFICATION_TRILINEAR_MIPMAP_MINIFICATION
+map_Kd textures/cobblestone.png
+# illum 2
+# d 1
+# Tr 0
+
+newmtl sand
+# Ns 0
+# Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0 0 0
+# map_Ka textures/sand.png
+# for G3D, to make textures look blocky:
+interpolateMode NEAREST_MAGNIFICATION_TRILINEAR_MIPMAP_MINIFICATION
+map_Kd textures/sand.png
+# illum 2
+# d 1
+# Tr 0
+
+newmtl oak_log
+# Ns 0
+# Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0 0 0
+# map_Ka textures/oak_log.png
+# for G3D, to make textures look blocky:
+interpolateMode NEAREST_MAGNIFICATION_TRILINEAR_MIPMAP_MINIFICATION
+map_Kd textures/oak_log.png
+#map_d textures/oak_log.png
+# illum 2
+# d 1
+# Tr 0
+
+newmtl oak_log_top
+# Ns 0
+# Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0 0 0
+# map_Ka textures/oak_log_top.png
+# for G3D, to make textures look blocky:
+interpolateMode NEAREST_MAGNIFICATION_TRILINEAR_MIPMAP_MINIFICATION
+map_Kd textures/oak_log_top.png
+# illum 2
+# d 1
+# Tr 0
+
+newmtl MWO_chest_side
+# Ns 0
+# Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0 0 0
+# map_Ka textures/MWO_chest_side.png
+# for G3D, to make textures look blocky:
+interpolateMode NEAREST_MAGNIFICATION_TRILINEAR_MIPMAP_MINIFICATION
+map_Kd textures/MWO_chest_side.png
+#map_d textures/MWO_chest_side.png
+# illum 2
+# d 1
+# Tr 0
+
+newmtl gold_ore
+# Ns 0
+# Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0 0 0
+# map_Ka textures/gold_ore.png
+# for G3D, to make textures look blocky:
+interpolateMode NEAREST_MAGNIFICATION_TRILINEAR_MIPMAP_MINIFICATION
+map_Kd textures/gold_ore.png
+# illum 2
+# d 1
+# Tr 0
+
+newmtl bookshelf
+# Ns 0
+# Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0 0 0
+# map_Ka textures/bookshelf.png
+# for G3D, to make textures look blocky:
+interpolateMode NEAREST_MAGNIFICATION_TRILINEAR_MIPMAP_MINIFICATION
+map_Kd textures/bookshelf.png
+#map_d textures/bookshelf.png
+# illum 2
+# d 1
+# Tr 0
+
+newmtl mossy_cobblestone
+# Ns 0
+# Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0 0 0
+# map_Ka textures/mossy_cobblestone.png
+# for G3D, to make textures look blocky:
+interpolateMode NEAREST_MAGNIFICATION_TRILINEAR_MIPMAP_MINIFICATION
+map_Kd textures/mossy_cobblestone.png
+# illum 2
+# d 1
+# Tr 0
+
+newmtl grass
+# Ns 0
+# Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0 0 0
+# map_Ka textures/grass_y.png
+# for G3D, to make textures look blocky:
+interpolateMode NEAREST_MAGNIFICATION_TRILINEAR_MIPMAP_MINIFICATION
+map_Kd textures/grass_y.png
+#map_d textures/grass_y.png
+# illum 2
+# d 1
+# Tr 0
+
+newmtl MWO_double_chest_front_left
+# Ns 0
+# Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0 0 0
+# map_Ka textures/MWO_double_chest_front_left.png
+# for G3D, to make textures look blocky:
+interpolateMode NEAREST_MAGNIFICATION_TRILINEAR_MIPMAP_MINIFICATION
+map_Kd textures/MWO_double_chest_front_left.png
+#map_d textures/MWO_double_chest_front_left.png
+# illum 2
+# d 1
+# Tr 0
+
+newmtl MWO_double_chest_front_right
+# Ns 0
+# Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0 0 0
+# map_Ka textures/MWO_double_chest_front_right.png
+# for G3D, to make textures look blocky:
+interpolateMode NEAREST_MAGNIFICATION_TRILINEAR_MIPMAP_MINIFICATION
+map_Kd textures/MWO_double_chest_front_right.png
+#map_d textures/MWO_double_chest_front_right.png
+# illum 2
+# d 1
+# Tr 0
+
+newmtl crafting_table_top
+# Ns 0
+# Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0 0 0
+# map_Ka textures/crafting_table_top.png
+# for G3D, to make textures look blocky:
+interpolateMode NEAREST_MAGNIFICATION_TRILINEAR_MIPMAP_MINIFICATION
+map_Kd textures/crafting_table_top.png
+# illum 2
+# d 1
+# Tr 0
+
+newmtl furnace_front
+# Ns 0
+# Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0 0 0
+# map_Ka textures/furnace_front.png
+# for G3D, to make textures look blocky:
+interpolateMode NEAREST_MAGNIFICATION_TRILINEAR_MIPMAP_MINIFICATION
+map_Kd textures/furnace_front.png
+#map_d textures/furnace_front.png
+# illum 2
+# d 1
+# Tr 0
+
+newmtl furnace_side
+# Ns 0
+# Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0 0 0
+# map_Ka textures/furnace_side.png
+# for G3D, to make textures look blocky:
+interpolateMode NEAREST_MAGNIFICATION_TRILINEAR_MIPMAP_MINIFICATION
+map_Kd textures/furnace_side.png
+#map_d textures/furnace_side.png
+# illum 2
+# d 1
+# Tr 0
+
+newmtl dispenser_front
+# Ns 0
+# Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0 0 0
+# map_Ka textures/dispenser_front.png
+# for G3D, to make textures look blocky:
+interpolateMode NEAREST_MAGNIFICATION_TRILINEAR_MIPMAP_MINIFICATION
+map_Kd textures/dispenser_front.png
+#map_d textures/dispenser_front.png
+# illum 2
+# d 1
+# Tr 0
+
+newmtl dispenser_front_vertical
+# Ns 0
+# Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0 0 0
+# map_Ka textures/dispenser_front_vertical.png
+# for G3D, to make textures look blocky:
+interpolateMode NEAREST_MAGNIFICATION_TRILINEAR_MIPMAP_MINIFICATION
+map_Kd textures/dispenser_front_vertical.png
+#map_d textures/dispenser_front_vertical.png
+# illum 2
+# d 1
+# Tr 0
+
+newmtl oak_leaves
+# Ns 0
+# Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0 0 0
+# map_Ka textures/oak_leaves_y.png
+# for G3D, to make textures look blocky:
+interpolateMode NEAREST_MAGNIFICATION_TRILINEAR_MIPMAP_MINIFICATION
+map_Kd textures/oak_leaves_y.png
+#map_d textures/oak_leaves_y.png
+# illum 2
+# d 1
+# Tr 0
+
+newmtl coarse_dirt
+# Ns 0
+# Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0 0 0
+# map_Ka textures/coarse_dirt.png
+# for G3D, to make textures look blocky:
+interpolateMode NEAREST_MAGNIFICATION_TRILINEAR_MIPMAP_MINIFICATION
+map_Kd textures/coarse_dirt.png
+#map_d textures/coarse_dirt.png
+# illum 2
+# d 1
+# Tr 0
+
+newmtl stone_bricks
+# Ns 0
+# Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0 0 0
+# map_Ka textures/stone_bricks.png
+# for G3D, to make textures look blocky:
+interpolateMode NEAREST_MAGNIFICATION_TRILINEAR_MIPMAP_MINIFICATION
+map_Kd textures/stone_bricks.png
+# illum 2
+# d 1
+# Tr 0
+
+newmtl dead_bush
+# Ns 0
+# Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0 0 0
+# map_Ka textures/dead_bush.png
+# for G3D, to make textures look blocky:
+interpolateMode NEAREST_MAGNIFICATION_TRILINEAR_MIPMAP_MINIFICATION
+map_Kd textures/dead_bush.png
+#map_d textures/dead_bush.png
+# illum 2
+# d 1
+# Tr 0
+
+newmtl fern
+# Ns 0
+# Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0 0 0
+# map_Ka textures/fern_y.png
+# for G3D, to make textures look blocky:
+interpolateMode NEAREST_MAGNIFICATION_TRILINEAR_MIPMAP_MINIFICATION
+map_Kd textures/fern_y.png
+#map_d textures/fern_y.png
+# illum 2
+# d 1
+# Tr 0
+
+newmtl MWO_double_chest_back_left
+# Ns 0
+# Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0 0 0
+# map_Ka textures/MWO_double_chest_back_left.png
+# for G3D, to make textures look blocky:
+interpolateMode NEAREST_MAGNIFICATION_TRILINEAR_MIPMAP_MINIFICATION
+map_Kd textures/MWO_double_chest_back_left.png
+#map_d textures/MWO_double_chest_back_left.png
+# illum 2
+# d 1
+# Tr 0
+
+newmtl MWO_double_chest_back_right
+# Ns 0
+# Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0 0 0
+# map_Ka textures/MWO_double_chest_back_right.png
+# for G3D, to make textures look blocky:
+interpolateMode NEAREST_MAGNIFICATION_TRILINEAR_MIPMAP_MINIFICATION
+map_Kd textures/MWO_double_chest_back_right.png
+#map_d textures/MWO_double_chest_back_right.png
+# illum 2
+# d 1
+# Tr 0
+
+newmtl crafting_table_side
+# Ns 0
+# Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0 0 0
+# map_Ka textures/crafting_table_side.png
+# for G3D, to make textures look blocky:
+interpolateMode NEAREST_MAGNIFICATION_TRILINEAR_MIPMAP_MINIFICATION
+map_Kd textures/crafting_table_side.png
+#map_d textures/crafting_table_side.png
+# illum 2
+# d 1
+# Tr 0
+
+newmtl crafting_table_front
+# Ns 0
+# Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0 0 0
+# map_Ka textures/crafting_table_front.png
+# for G3D, to make textures look blocky:
+interpolateMode NEAREST_MAGNIFICATION_TRILINEAR_MIPMAP_MINIFICATION
+map_Kd textures/crafting_table_front.png
+#map_d textures/crafting_table_front.png
+# illum 2
+# d 1
+# Tr 0
+
+newmtl furnace_top
+# Ns 0
+# Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0 0 0
+# map_Ka textures/furnace_top.png
+# for G3D, to make textures look blocky:
+interpolateMode NEAREST_MAGNIFICATION_TRILINEAR_MIPMAP_MINIFICATION
+map_Kd textures/furnace_top.png
+# illum 2
+# d 1
+# Tr 0
+
+newmtl white_wool
+# Ns 0
+# Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0 0 0
+# map_Ka textures/white_wool.png
+# for G3D, to make textures look blocky:
+interpolateMode NEAREST_MAGNIFICATION_TRILINEAR_MIPMAP_MINIFICATION
+map_Kd textures/white_wool.png
+# illum 2
+# d 1
+# Tr 0
+
+newmtl cactus_side
+# Ns 0
+# Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0 0 0
+# map_Ka textures/cactus_side.png
+# for G3D, to make textures look blocky:
+interpolateMode NEAREST_MAGNIFICATION_TRILINEAR_MIPMAP_MINIFICATION
+map_Kd textures/cactus_side.png
+#map_d textures/cactus_side.png
+# illum 2
+# d 1
+# Tr 0
+
+newmtl clay
+# Ns 0
+# Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0 0 0
+# map_Ka textures/clay.png
+# for G3D, to make textures look blocky:
+interpolateMode NEAREST_MAGNIFICATION_TRILINEAR_MIPMAP_MINIFICATION
+map_Kd textures/clay.png
+# illum 2
+# d 1
+# Tr 0
+
+newmtl jukebox_side
+# Ns 0
+# Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0 0 0
+# map_Ka textures/jukebox_side.png
+# for G3D, to make textures look blocky:
+interpolateMode NEAREST_MAGNIFICATION_TRILINEAR_MIPMAP_MINIFICATION
+map_Kd textures/jukebox_side.png
+#map_d textures/jukebox_side.png
+# illum 2
+# d 1
+# Tr 0
+
+newmtl jukebox_top
+# Ns 0
+# Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0 0 0
+# map_Ka textures/jukebox_top.png
+# for G3D, to make textures look blocky:
+interpolateMode NEAREST_MAGNIFICATION_TRILINEAR_MIPMAP_MINIFICATION
+map_Kd textures/jukebox_top.png
+# illum 2
+# d 1
+# Tr 0
+
+newmtl torch
+# Ns 0
+# Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0 0 0
+Ke 0.901686 0.901686 0.901686
+# map_Ka textures/torch.png
+# for G3D, to make textures look blocky:
+interpolateMode NEAREST_MAGNIFICATION_TRILINEAR_MIPMAP_MINIFICATION
+map_Kd textures/torch.png
+#map_d textures/torch.png
+map_Ke textures/torch.png
+# illum 2
+# d 1
+# Tr 0
+
+newmtl oak_door_top
+# Ns 0
+# Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0 0 0
+# map_Ka textures/oak_door_top.png
+# for G3D, to make textures look blocky:
+interpolateMode NEAREST_MAGNIFICATION_TRILINEAR_MIPMAP_MINIFICATION
+map_Kd textures/oak_door_top.png
+#map_d textures/oak_door_top.png
+# illum 2
+# d 1
+# Tr 0
+
+newmtl ladder
+# Ns 0
+# Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0 0 0
+# map_Ka textures/ladder.png
+# for G3D, to make textures look blocky:
+interpolateMode NEAREST_MAGNIFICATION_TRILINEAR_MIPMAP_MINIFICATION
+map_Kd textures/ladder.png
+#map_d textures/ladder.png
+# illum 2
+# d 1
+# Tr 0
+
+newmtl oak_trapdoor
+# Ns 0
+# Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0 0 0
+# map_Ka textures/oak_trapdoor.png
+# for G3D, to make textures look blocky:
+interpolateMode NEAREST_MAGNIFICATION_TRILINEAR_MIPMAP_MINIFICATION
+map_Kd textures/oak_trapdoor.png
+#map_d textures/oak_trapdoor.png
+# illum 2
+# d 1
+# Tr 0
+
+newmtl iron_bars
+# Ns 0
+# Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0 0 0
+# map_Ka textures/iron_bars.png
+# for G3D, to make textures look blocky:
+interpolateMode NEAREST_MAGNIFICATION_TRILINEAR_MIPMAP_MINIFICATION
+map_Kd textures/iron_bars.png
+#map_d textures/iron_bars.png
+# illum 2
+# d 1
+# Tr 0
+
+newmtl farmland_moist
+# Ns 0
+# Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0 0 0
+# map_Ka textures/farmland_moist.png
+# for G3D, to make textures look blocky:
+interpolateMode NEAREST_MAGNIFICATION_TRILINEAR_MIPMAP_MINIFICATION
+map_Kd textures/farmland_moist.png
+#map_d textures/farmland_moist.png
+# illum 2
+# d 1
+# Tr 0
+
+newmtl farmland
+# Ns 0
+# Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0 0 0
+# map_Ka textures/farmland.png
+# for G3D, to make textures look blocky:
+interpolateMode NEAREST_MAGNIFICATION_TRILINEAR_MIPMAP_MINIFICATION
+map_Kd textures/farmland.png
+# illum 2
+# d 1
+# Tr 0
+
+newmtl wheat_stage1
+# Ns 0
+# Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0 0 0
+# map_Ka textures/wheat_stage1.png
+# for G3D, to make textures look blocky:
+interpolateMode NEAREST_MAGNIFICATION_TRILINEAR_MIPMAP_MINIFICATION
+map_Kd textures/wheat_stage1.png
+#map_d textures/wheat_stage1.png
+# illum 2
+# d 1
+# Tr 0
+
+newmtl wheat_stage3
+# Ns 0
+# Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0 0 0
+# map_Ka textures/wheat_stage3.png
+# for G3D, to make textures look blocky:
+interpolateMode NEAREST_MAGNIFICATION_TRILINEAR_MIPMAP_MINIFICATION
+map_Kd textures/wheat_stage3.png
+#map_d textures/wheat_stage3.png
+# illum 2
+# d 1
+# Tr 0
+
+newmtl wheat_stage5
+# Ns 0
+# Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0 0 0
+# map_Ka textures/wheat_stage5.png
+# for G3D, to make textures look blocky:
+interpolateMode NEAREST_MAGNIFICATION_TRILINEAR_MIPMAP_MINIFICATION
+map_Kd textures/wheat_stage5.png
+#map_d textures/wheat_stage5.png
+# illum 2
+# d 1
+# Tr 0
+
+newmtl wheat_stage6
+# Ns 0
+# Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0 0 0
+# map_Ka textures/wheat_stage6.png
+# for G3D, to make textures look blocky:
+interpolateMode NEAREST_MAGNIFICATION_TRILINEAR_MIPMAP_MINIFICATION
+map_Kd textures/wheat_stage6.png
+#map_d textures/wheat_stage6.png
+# illum 2
+# d 1
+# Tr 0
+
+newmtl wheat_stage7
+# Ns 0
+# Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0 0 0
+# map_Ka textures/wheat_stage7.png
+# for G3D, to make textures look blocky:
+interpolateMode NEAREST_MAGNIFICATION_TRILINEAR_MIPMAP_MINIFICATION
+map_Kd textures/wheat_stage7.png
+#map_d textures/wheat_stage7.png
+# illum 2
+# d 1
+# Tr 0
+
+newmtl oak_door_bottom
+# Ns 0
+# Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0 0 0
+# map_Ka textures/oak_door_bottom.png
+# for G3D, to make textures look blocky:
+interpolateMode NEAREST_MAGNIFICATION_TRILINEAR_MIPMAP_MINIFICATION
+map_Kd textures/oak_door_bottom.png
+#map_d textures/oak_door_bottom.png
+# illum 2
+# d 1
+# Tr 0
+
+newmtl redstone_torch
+# Ns 0
+# Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0 0 0
+Ke 0.318794 0.318794 0.318794
+# map_Ka textures/redstone_torch.png
+# for G3D, to make textures look blocky:
+interpolateMode NEAREST_MAGNIFICATION_TRILINEAR_MIPMAP_MINIFICATION
+map_Kd textures/redstone_torch.png
+#map_d textures/redstone_torch.png
+map_Ke textures/redstone_torch.png
+# illum 2
+# d 1
+# Tr 0
+
+newmtl pumpkin_top
+# Ns 0
+# Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0 0 0
+# map_Ka textures/pumpkin_top.png
+# for G3D, to make textures look blocky:
+interpolateMode NEAREST_MAGNIFICATION_TRILINEAR_MIPMAP_MINIFICATION
+map_Kd textures/pumpkin_top.png
+# illum 2
+# d 1
+# Tr 0
+
+newmtl piston_side
+# Ns 0
+# Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0 0 0
+# map_Ka textures/piston_side.png
+# for G3D, to make textures look blocky:
+interpolateMode NEAREST_MAGNIFICATION_TRILINEAR_MIPMAP_MINIFICATION
+map_Kd textures/piston_side.png
+# illum 2
+# d 1
+# Tr 0
+
+newmtl rail_corner
+# Ns 0
+# Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0 0 0
+# map_Ka textures/rail_corner.png
+# for G3D, to make textures look blocky:
+interpolateMode NEAREST_MAGNIFICATION_TRILINEAR_MIPMAP_MINIFICATION
+map_Kd textures/rail_corner.png
+#map_d textures/rail_corner.png
+# illum 2
+# d 1
+# Tr 0
+
+newmtl gray_wool
+# Ns 0
+# Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0 0 0
+# map_Ka textures/gray_wool.png
+# for G3D, to make textures look blocky:
+interpolateMode NEAREST_MAGNIFICATION_TRILINEAR_MIPMAP_MINIFICATION
+map_Kd textures/gray_wool.png
+#map_d textures/gray_wool.png
+# illum 2
+# d 1
+# Tr 0
+
+newmtl spruce_log
+# Ns 0
+# Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0 0 0
+# map_Ka textures/spruce_log.png
+# for G3D, to make textures look blocky:
+interpolateMode NEAREST_MAGNIFICATION_TRILINEAR_MIPMAP_MINIFICATION
+map_Kd textures/spruce_log.png
+#map_d textures/spruce_log.png
+# illum 2
+# d 1
+# Tr 0
+
+newmtl birch_log
+# Ns 0
+# Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0 0 0
+# map_Ka textures/birch_log.png
+# for G3D, to make textures look blocky:
+interpolateMode NEAREST_MAGNIFICATION_TRILINEAR_MIPMAP_MINIFICATION
+map_Kd textures/birch_log.png
+#map_d textures/birch_log.png
+# illum 2
+# d 1
+# Tr 0
+
+newmtl pumpkin_side
+# Ns 0
+# Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0 0 0
+# map_Ka textures/pumpkin_side.png
+# for G3D, to make textures look blocky:
+interpolateMode NEAREST_MAGNIFICATION_TRILINEAR_MIPMAP_MINIFICATION
+map_Kd textures/pumpkin_side.png
+#map_d textures/pumpkin_side.png
+# illum 2
+# d 1
+# Tr 0
+
+newmtl carved_pumpkin
+# Ns 0
+# Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0 0 0
+# map_Ka textures/carved_pumpkin.png
+# for G3D, to make textures look blocky:
+interpolateMode NEAREST_MAGNIFICATION_TRILINEAR_MIPMAP_MINIFICATION
+map_Kd textures/carved_pumpkin.png
+#map_d textures/carved_pumpkin.png
+# illum 2
+# d 1
+# Tr 0
+
+newmtl rail
+# Ns 0
+# Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0 0 0
+# map_Ka textures/rail.png
+# for G3D, to make textures look blocky:
+interpolateMode NEAREST_MAGNIFICATION_TRILINEAR_MIPMAP_MINIFICATION
+map_Kd textures/rail.png
+#map_d textures/rail.png
+# illum 2
+# d 1
+# Tr 0
+
+newmtl spruce_leaves
+# Ns 0
+# Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0 0 0
+# map_Ka textures/spruce_leaves_y.png
+# for G3D, to make textures look blocky:
+interpolateMode NEAREST_MAGNIFICATION_TRILINEAR_MIPMAP_MINIFICATION
+map_Kd textures/spruce_leaves_y.png
+#map_d textures/spruce_leaves_y.png
+# illum 2
+# d 1
+# Tr 0
+
+newmtl melon_side
+# Ns 0
+# Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0 0 0
+# map_Ka textures/melon_side.png
+# for G3D, to make textures look blocky:
+interpolateMode NEAREST_MAGNIFICATION_TRILINEAR_MIPMAP_MINIFICATION
+map_Kd textures/melon_side.png
+#map_d textures/melon_side.png
+# illum 2
+# d 1
+# Tr 0
+
+newmtl melon_top
+# Ns 0
+# Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0 0 0
+# map_Ka textures/melon_top.png
+# for G3D, to make textures look blocky:
+interpolateMode NEAREST_MAGNIFICATION_TRILINEAR_MIPMAP_MINIFICATION
+map_Kd textures/melon_top.png
+# illum 2
+# d 1
+# Tr 0
+
+newmtl cauldron_top
+# Ns 0
+# Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0 0 0
+# map_Ka textures/cauldron_top.png
+# for G3D, to make textures look blocky:
+interpolateMode NEAREST_MAGNIFICATION_TRILINEAR_MIPMAP_MINIFICATION
+map_Kd textures/cauldron_top.png
+#map_d textures/cauldron_top.png
+# illum 2
+# d 1
+# Tr 0
+
+newmtl cauldron_inner
+# Ns 0
+# Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0 0 0
+# map_Ka textures/cauldron_inner.png
+# for G3D, to make textures look blocky:
+interpolateMode NEAREST_MAGNIFICATION_TRILINEAR_MIPMAP_MINIFICATION
+map_Kd textures/cauldron_inner.png
+#map_d textures/cauldron_inner.png
+# illum 2
+# d 1
+# Tr 0
+
+newmtl note_block
+# Ns 0
+# Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0 0 0
+# map_Ka textures/note_block.png
+# for G3D, to make textures look blocky:
+interpolateMode NEAREST_MAGNIFICATION_TRILINEAR_MIPMAP_MINIFICATION
+map_Kd textures/note_block.png
+# illum 2
+# d 1
+# Tr 0
+
+newmtl lime_wool
+# Ns 0
+# Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0 0 0
+# map_Ka textures/lime_wool.png
+# for G3D, to make textures look blocky:
+interpolateMode NEAREST_MAGNIFICATION_TRILINEAR_MIPMAP_MINIFICATION
+map_Kd textures/lime_wool.png
+#map_d textures/lime_wool.png
+# illum 2
+# d 1
+# Tr 0
+
+newmtl cauldron_side
+# Ns 0
+# Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0 0 0
+# map_Ka textures/cauldron_side.png
+# for G3D, to make textures look blocky:
+interpolateMode NEAREST_MAGNIFICATION_TRILINEAR_MIPMAP_MINIFICATION
+map_Kd textures/cauldron_side.png
+#map_d textures/cauldron_side.png
+# illum 2
+# d 1
+# Tr 0
+
+newmtl cauldron_bottom
+# Ns 0
+# Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0 0 0
+# map_Ka textures/cauldron_bottom.png
+# for G3D, to make textures look blocky:
+interpolateMode NEAREST_MAGNIFICATION_TRILINEAR_MIPMAP_MINIFICATION
+map_Kd textures/cauldron_bottom.png
+#map_d textures/cauldron_bottom.png
+# illum 2
+# d 1
+# Tr 0
+
+newmtl brewing_stand_base
+# Ns 0
+# Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0 0 0
+# map_Ka textures/brewing_stand_base.png
+# for G3D, to make textures look blocky:
+interpolateMode NEAREST_MAGNIFICATION_TRILINEAR_MIPMAP_MINIFICATION
+map_Kd textures/brewing_stand_base.png
+#map_d textures/brewing_stand_base.png
+# illum 2
+# d 1
+# Tr 0
+
+newmtl brewing_stand
+# Ns 0
+# Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0 0 0
+Ke 0.0172133 0.0172133 0.0172133
+# map_Ka textures/brewing_stand.png
+# for G3D, to make textures look blocky:
+interpolateMode NEAREST_MAGNIFICATION_TRILINEAR_MIPMAP_MINIFICATION
+map_Kd textures/brewing_stand.png
+#map_d textures/brewing_stand.png
+map_Ke textures/brewing_stand.png
+# illum 2
+# d 1
+# Tr 0
+
+newmtl brown_wool
+# Ns 0
+# Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0 0 0
+# map_Ka textures/brown_wool.png
+# for G3D, to make textures look blocky:
+interpolateMode NEAREST_MAGNIFICATION_TRILINEAR_MIPMAP_MINIFICATION
+map_Kd textures/brown_wool.png
+#map_d textures/brown_wool.png
+# illum 2
+# d 1
+# Tr 0
+
+newmtl yellow_wool
+# Ns 0
+# Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0 0 0
+# map_Ka textures/yellow_wool.png
+# for G3D, to make textures look blocky:
+interpolateMode NEAREST_MAGNIFICATION_TRILINEAR_MIPMAP_MINIFICATION
+map_Kd textures/yellow_wool.png
+#map_d textures/yellow_wool.png
+# illum 2
+# d 1
+# Tr 0
+
+newmtl powered_rail
+# Ns 0
+# Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0 0 0
+# map_Ka textures/powered_rail.png
+# for G3D, to make textures look blocky:
+interpolateMode NEAREST_MAGNIFICATION_TRILINEAR_MIPMAP_MINIFICATION
+map_Kd textures/powered_rail.png
+#map_d textures/powered_rail.png
+# illum 2
+# d 1
+# Tr 0
+
+newmtl enchanting_table_top
+# Ns 0
+# Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0 0 0
+# map_Ka textures/enchanting_table_top.png
+# for G3D, to make textures look blocky:
+interpolateMode NEAREST_MAGNIFICATION_TRILINEAR_MIPMAP_MINIFICATION
+map_Kd textures/enchanting_table_top.png
+# illum 2
+# d 1
+# Tr 0
+
+newmtl sandstone_top
+# Ns 0
+# Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0 0 0
+# map_Ka textures/sandstone_top.png
+# for G3D, to make textures look blocky:
+interpolateMode NEAREST_MAGNIFICATION_TRILINEAR_MIPMAP_MINIFICATION
+map_Kd textures/sandstone_top.png
+# illum 2
+# d 1
+# Tr 0
+
+newmtl enchanting_table_side
+# Ns 0
+# Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0 0 0
+# map_Ka textures/enchanting_table_side.png
+# for G3D, to make textures look blocky:
+interpolateMode NEAREST_MAGNIFICATION_TRILINEAR_MIPMAP_MINIFICATION
+map_Kd textures/enchanting_table_side.png
+#map_d textures/enchanting_table_side.png
+# illum 2
+# d 1
+# Tr 0
+
+newmtl flower_pot
+# Ns 0
+# Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0 0 0
+# map_Ka textures/flower_pot.png
+# for G3D, to make textures look blocky:
+interpolateMode NEAREST_MAGNIFICATION_TRILINEAR_MIPMAP_MINIFICATION
+map_Kd textures/flower_pot.png
+# illum 2
+# d 1
+# Tr 0
+
+newmtl birch_log_top
+# Ns 0
+# Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0 0 0
+# map_Ka textures/birch_log_top.png
+# for G3D, to make textures look blocky:
+interpolateMode NEAREST_MAGNIFICATION_TRILINEAR_MIPMAP_MINIFICATION
+map_Kd textures/birch_log_top.png
+#map_d textures/birch_log_top.png
+# illum 2
+# d 1
+# Tr 0
+
+newmtl spruce_log_top
+# Ns 0
+# Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0 0 0
+# map_Ka textures/spruce_log_top.png
+# for G3D, to make textures look blocky:
+interpolateMode NEAREST_MAGNIFICATION_TRILINEAR_MIPMAP_MINIFICATION
+map_Kd textures/spruce_log_top.png
+#map_d textures/spruce_log_top.png
+# illum 2
+# d 1
+# Tr 0
+
+newmtl sandstone
+# Ns 0
+# Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0 0 0
+# map_Ka textures/sandstone.png
+# for G3D, to make textures look blocky:
+interpolateMode NEAREST_MAGNIFICATION_TRILINEAR_MIPMAP_MINIFICATION
+map_Kd textures/sandstone.png
+#map_d textures/sandstone.png
+# illum 2
+# d 1
+# Tr 0
+
+newmtl detector_rail
+# Ns 0
+# Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0 0 0
+# map_Ka textures/detector_rail.png
+# for G3D, to make textures look blocky:
+interpolateMode NEAREST_MAGNIFICATION_TRILINEAR_MIPMAP_MINIFICATION
+map_Kd textures/detector_rail.png
+#map_d textures/detector_rail.png
+# illum 2
+# d 1
+# Tr 0
+
+newmtl spruce_planks
+# Ns 0
+# Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0 0 0
+# map_Ka textures/spruce_planks.png
+# for G3D, to make textures look blocky:
+interpolateMode NEAREST_MAGNIFICATION_TRILINEAR_MIPMAP_MINIFICATION
+map_Kd textures/spruce_planks.png
+# illum 2
+# d 1
+# Tr 0
+
+newmtl jungle_planks
+# Ns 0
+# Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0 0 0
+# map_Ka textures/jungle_planks.png
+# for G3D, to make textures look blocky:
+interpolateMode NEAREST_MAGNIFICATION_TRILINEAR_MIPMAP_MINIFICATION
+map_Kd textures/jungle_planks.png
+# illum 2
+# d 1
+# Tr 0
+
+newmtl carrots_stage2
+# Ns 0
+# Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0 0 0
+# map_Ka textures/carrots_stage2.png
+# for G3D, to make textures look blocky:
+interpolateMode NEAREST_MAGNIFICATION_TRILINEAR_MIPMAP_MINIFICATION
+map_Kd textures/carrots_stage2.png
+#map_d textures/carrots_stage2.png
+# illum 2
+# d 1
+# Tr 0
+
+newmtl carrots_stage3
+# Ns 0
+# Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0 0 0
+# map_Ka textures/carrots_stage3.png
+# for G3D, to make textures look blocky:
+interpolateMode NEAREST_MAGNIFICATION_TRILINEAR_MIPMAP_MINIFICATION
+map_Kd textures/carrots_stage3.png
+#map_d textures/carrots_stage3.png
+# illum 2
+# d 1
+# Tr 0
+
+newmtl potatoes_stage2
+# Ns 0
+# Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0 0 0
+# map_Ka textures/potatoes_stage2.png
+# for G3D, to make textures look blocky:
+interpolateMode NEAREST_MAGNIFICATION_TRILINEAR_MIPMAP_MINIFICATION
+map_Kd textures/potatoes_stage2.png
+#map_d textures/potatoes_stage2.png
+# illum 2
+# d 1
+# Tr 0
+
+newmtl potatoes_stage3
+# Ns 0
+# Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0 0 0
+# map_Ka textures/potatoes_stage3.png
+# for G3D, to make textures look blocky:
+interpolateMode NEAREST_MAGNIFICATION_TRILINEAR_MIPMAP_MINIFICATION
+map_Kd textures/potatoes_stage3.png
+#map_d textures/potatoes_stage3.png
+# illum 2
+# d 1
+# Tr 0
+
+newmtl orange_wool
+# Ns 0
+# Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0 0 0
+# map_Ka textures/orange_wool.png
+# for G3D, to make textures look blocky:
+interpolateMode NEAREST_MAGNIFICATION_TRILINEAR_MIPMAP_MINIFICATION
+map_Kd textures/orange_wool.png
+#map_d textures/orange_wool.png
+# illum 2
+# d 1
+# Tr 0
+
+newmtl chiseled_stone_bricks
+# Ns 0
+# Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0 0 0
+# map_Ka textures/chiseled_stone_bricks.png
+# for G3D, to make textures look blocky:
+interpolateMode NEAREST_MAGNIFICATION_TRILINEAR_MIPMAP_MINIFICATION
+map_Kd textures/chiseled_stone_bricks.png
+#map_d textures/chiseled_stone_bricks.png
+# illum 2
+# d 1
+# Tr 0
+
+newmtl birch_planks
+# Ns 0
+# Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0 0 0
+# map_Ka textures/birch_planks.png
+# for G3D, to make textures look blocky:
+interpolateMode NEAREST_MAGNIFICATION_TRILINEAR_MIPMAP_MINIFICATION
+map_Kd textures/birch_planks.png
+# illum 2
+# d 1
+# Tr 0
+
+newmtl anvil
+# Ns 0
+# Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0 0 0
+# map_Ka textures/anvil.png
+# for G3D, to make textures look blocky:
+interpolateMode NEAREST_MAGNIFICATION_TRILINEAR_MIPMAP_MINIFICATION
+map_Kd textures/anvil.png
+# illum 2
+# d 1
+# Tr 0
+
+newmtl MWO_ender_chest_latch
+# Ns 0
+# Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0 0 0
+Ke 0.318794 0.318794 0.318794
+# map_Ka textures/MWO_ender_chest_latch.png
+# for G3D, to make textures look blocky:
+interpolateMode NEAREST_MAGNIFICATION_TRILINEAR_MIPMAP_MINIFICATION
+map_Kd textures/MWO_ender_chest_latch.png
+map_Ke textures/MWO_ender_chest_latch.png
+# illum 2
+# d 1
+# Tr 0
+
+newmtl MWO_ender_chest_top
+# Ns 0
+# Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0 0 0
+Ke 0.318794 0.318794 0.318794
+# map_Ka textures/MWO_ender_chest_top.png
+# for G3D, to make textures look blocky:
+interpolateMode NEAREST_MAGNIFICATION_TRILINEAR_MIPMAP_MINIFICATION
+map_Kd textures/MWO_ender_chest_top.png
+map_Ke textures/MWO_ender_chest_top.png
+# illum 2
+# d 1
+# Tr 0
+
+newmtl MWO_ender_chest_side
+# Ns 0
+# Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0 0 0
+Ke 0.318794 0.318794 0.318794
+# map_Ka textures/MWO_ender_chest_side.png
+# for G3D, to make textures look blocky:
+interpolateMode NEAREST_MAGNIFICATION_TRILINEAR_MIPMAP_MINIFICATION
+map_Kd textures/MWO_ender_chest_side.png
+map_Ke textures/MWO_ender_chest_side.png
+# illum 2
+# d 1
+# Tr 0
+
+newmtl MWO_ender_chest_front
+# Ns 0
+# Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0 0 0
+Ke 0.318794 0.318794 0.318794
+# map_Ka textures/MWO_ender_chest_front.png
+# for G3D, to make textures look blocky:
+interpolateMode NEAREST_MAGNIFICATION_TRILINEAR_MIPMAP_MINIFICATION
+map_Kd textures/MWO_ender_chest_front.png
+map_Ke textures/MWO_ender_chest_front.png
+# illum 2
+# d 1
+# Tr 0
+
+newmtl birch_leaves
+# Ns 0
+# Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0 0 0
+# map_Ka textures/birch_leaves_y.png
+# for G3D, to make textures look blocky:
+interpolateMode NEAREST_MAGNIFICATION_TRILINEAR_MIPMAP_MINIFICATION
+map_Kd textures/birch_leaves_y.png
+#map_d textures/birch_leaves_y.png
+# illum 2
+# d 1
+# Tr 0
+
+newmtl water_still
+# Ns 0
+# Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0.03 0.03 0.03
+# map_Ka textures/water_still_y.png
+# for G3D, to make textures look blocky:
+interpolateMode NEAREST_MAGNIFICATION_TRILINEAR_MIPMAP_MINIFICATION
+map_Kd textures/water_still_y.png
+#map_d textures/water_still_y.png
+# illum 4
+# d 0.535
+# Tr 0.465
+# Tf 0.465 0.465 0.465
+
+newmtl light_gray_wool
+# Ns 0
+# Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0 0 0
+# map_Ka textures/light_gray_wool.png
+# for G3D, to make textures look blocky:
+interpolateMode NEAREST_MAGNIFICATION_TRILINEAR_MIPMAP_MINIFICATION
+map_Kd textures/light_gray_wool.png
+#map_d textures/light_gray_wool.png
+# illum 2
+# d 1
+# Tr 0
+
+newmtl anvil_top
+# Ns 0
+# Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0 0 0
+# map_Ka textures/anvil_top.png
+# for G3D, to make textures look blocky:
+interpolateMode NEAREST_MAGNIFICATION_TRILINEAR_MIPMAP_MINIFICATION
+map_Kd textures/anvil_top.png
+#map_d textures/anvil_top.png
+# illum 2
+# d 1
+# Tr 0
+
+newmtl MWO_double_chest_top_left
+# Ns 0
+# Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0 0 0
+# map_Ka textures/MWO_double_chest_top_left.png
+# for G3D, to make textures look blocky:
+interpolateMode NEAREST_MAGNIFICATION_TRILINEAR_MIPMAP_MINIFICATION
+map_Kd textures/MWO_double_chest_top_left.png
+#map_d textures/MWO_double_chest_top_left.png
+# illum 2
+# d 1
+# Tr 0
+
+newmtl MWO_double_chest_top_right
+# Ns 0
+# Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0 0 0
+# map_Ka textures/MWO_double_chest_top_right.png
+# for G3D, to make textures look blocky:
+interpolateMode NEAREST_MAGNIFICATION_TRILINEAR_MIPMAP_MINIFICATION
+map_Kd textures/MWO_double_chest_top_right.png
+#map_d textures/MWO_double_chest_top_right.png
+# illum 2
+# d 1
+# Tr 0
+
+newmtl coal_block
+# Ns 0
+# Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0.03 0.03 0.03
+# map_Ka textures/coal_block.png
+# for G3D, to make textures look blocky:
+interpolateMode NEAREST_MAGNIFICATION_TRILINEAR_MIPMAP_MINIFICATION
+map_Kd textures/coal_block.png
+# illum 2
+# d 1
+# Tr 0
+
+newmtl hay_block_side
+# Ns 0
+# Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0 0 0
+# map_Ka textures/hay_block_side.png
+# for G3D, to make textures look blocky:
+interpolateMode NEAREST_MAGNIFICATION_TRILINEAR_MIPMAP_MINIFICATION
+map_Kd textures/hay_block_side.png
+#map_d textures/hay_block_side.png
+# illum 2
+# d 1
+# Tr 0
+
+newmtl hay_block_top
+# Ns 0
+# Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0 0 0
+# map_Ka textures/hay_block_top.png
+# for G3D, to make textures look blocky:
+interpolateMode NEAREST_MAGNIFICATION_TRILINEAR_MIPMAP_MINIFICATION
+map_Kd textures/hay_block_top.png
+# illum 2
+# d 1
+# Tr 0
+
+newmtl hopper_inside
+# Ns 0
+# Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0 0 0
+# map_Ka textures/hopper_inside.png
+# for G3D, to make textures look blocky:
+interpolateMode NEAREST_MAGNIFICATION_TRILINEAR_MIPMAP_MINIFICATION
+map_Kd textures/hopper_inside.png
+#map_d textures/hopper_inside.png
+# illum 2
+# d 1
+# Tr 0
+
+newmtl hopper_outside
+# Ns 0
+# Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0 0 0
+# map_Ka textures/hopper_outside.png
+# for G3D, to make textures look blocky:
+interpolateMode NEAREST_MAGNIFICATION_TRILINEAR_MIPMAP_MINIFICATION
+map_Kd textures/hopper_outside.png
+#map_d textures/hopper_outside.png
+# illum 2
+# d 1
+# Tr 0
+
+newmtl hopper_top
+# Ns 0
+# Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0 0 0
+# map_Ka textures/hopper_top.png
+# for G3D, to make textures look blocky:
+interpolateMode NEAREST_MAGNIFICATION_TRILINEAR_MIPMAP_MINIFICATION
+map_Kd textures/hopper_top.png
+# illum 2
+# d 1
+# Tr 0
+
+newmtl orange_terracotta
+# Ns 0
+# Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0 0 0
+# map_Ka textures/orange_terracotta.png
+# for G3D, to make textures look blocky:
+interpolateMode NEAREST_MAGNIFICATION_TRILINEAR_MIPMAP_MINIFICATION
+map_Kd textures/orange_terracotta.png
+#map_d textures/orange_terracotta.png
+# illum 2
+# d 1
+# Tr 0
+
+newmtl yellow_terracotta
+# Ns 0
+# Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0 0 0
+# map_Ka textures/yellow_terracotta.png
+# for G3D, to make textures look blocky:
+interpolateMode NEAREST_MAGNIFICATION_TRILINEAR_MIPMAP_MINIFICATION
+map_Kd textures/yellow_terracotta.png
+#map_d textures/yellow_terracotta.png
+# illum 2
+# d 1
+# Tr 0
+
+newmtl cyan_terracotta
+# Ns 0
+# Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0 0 0
+# map_Ka textures/cyan_terracotta.png
+# for G3D, to make textures look blocky:
+interpolateMode NEAREST_MAGNIFICATION_TRILINEAR_MIPMAP_MINIFICATION
+map_Kd textures/cyan_terracotta.png
+#map_d textures/cyan_terracotta.png
+# illum 2
+# d 1
+# Tr 0
+
+newmtl terracotta
+# Ns 0
+# Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0 0 0
+# map_Ka textures/terracotta.png
+# for G3D, to make textures look blocky:
+interpolateMode NEAREST_MAGNIFICATION_TRILINEAR_MIPMAP_MINIFICATION
+map_Kd textures/terracotta.png
+# illum 2
+# d 1
+# Tr 0
+
+newmtl quartz_block_top
+# Ns 0
+# Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0 0 0
+# map_Ka textures/quartz_block_top.png
+# for G3D, to make textures look blocky:
+interpolateMode NEAREST_MAGNIFICATION_TRILINEAR_MIPMAP_MINIFICATION
+map_Kd textures/quartz_block_top.png
+# illum 2
+# d 1
+# Tr 0
+
+newmtl red_sand
+# Ns 0
+# Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0 0 0
+# map_Ka textures/red_sand.png
+# for G3D, to make textures look blocky:
+interpolateMode NEAREST_MAGNIFICATION_TRILINEAR_MIPMAP_MINIFICATION
+map_Kd textures/red_sand.png
+#map_d textures/red_sand.png
+# illum 2
+# d 1
+# Tr 0
+
+newmtl podzol_side
+# Ns 0
+# Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0 0 0
+# map_Ka textures/podzol_side.png
+# for G3D, to make textures look blocky:
+interpolateMode NEAREST_MAGNIFICATION_TRILINEAR_MIPMAP_MINIFICATION
+map_Kd textures/podzol_side.png
+#map_d textures/podzol_side.png
+# illum 2
+# d 1
+# Tr 0
+
+newmtl podzol_top
+# Ns 0
+# Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0 0 0
+# map_Ka textures/podzol_top.png
+# for G3D, to make textures look blocky:
+interpolateMode NEAREST_MAGNIFICATION_TRILINEAR_MIPMAP_MINIFICATION
+map_Kd textures/podzol_top.png
+#map_d textures/podzol_top.png
+# illum 2
+# d 1
+# Tr 0
+
+newmtl lilac_bottom
+# Ns 0
+# Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0 0 0
+# map_Ka textures/lilac_bottom.png
+# for G3D, to make textures look blocky:
+interpolateMode NEAREST_MAGNIFICATION_TRILINEAR_MIPMAP_MINIFICATION
+map_Kd textures/lilac_bottom.png
+#map_d textures/lilac_bottom.png
+# illum 2
+# d 1
+# Tr 0
+
+newmtl lilac_top
+# Ns 0
+# Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0 0 0
+# map_Ka textures/lilac_top.png
+# for G3D, to make textures look blocky:
+interpolateMode NEAREST_MAGNIFICATION_TRILINEAR_MIPMAP_MINIFICATION
+map_Kd textures/lilac_top.png
+#map_d textures/lilac_top.png
+# illum 2
+# d 1
+# Tr 0
+
+newmtl tall_grass_bottom
+# Ns 0
+# Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0 0 0
+# map_Ka textures/tall_grass_bottom_y.png
+# for G3D, to make textures look blocky:
+interpolateMode NEAREST_MAGNIFICATION_TRILINEAR_MIPMAP_MINIFICATION
+map_Kd textures/tall_grass_bottom_y.png
+#map_d textures/tall_grass_bottom_y.png
+# illum 2
+# d 1
+# Tr 0
+
+newmtl tall_grass_top
+# Ns 0
+# Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0 0 0
+# map_Ka textures/tall_grass_top_y.png
+# for G3D, to make textures look blocky:
+interpolateMode NEAREST_MAGNIFICATION_TRILINEAR_MIPMAP_MINIFICATION
+map_Kd textures/tall_grass_top_y.png
+#map_d textures/tall_grass_top_y.png
+# illum 2
+# d 1
+# Tr 0
+
+newmtl large_fern_bottom
+# Ns 0
+# Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0 0 0
+# map_Ka textures/large_fern_bottom_y.png
+# for G3D, to make textures look blocky:
+interpolateMode NEAREST_MAGNIFICATION_TRILINEAR_MIPMAP_MINIFICATION
+map_Kd textures/large_fern_bottom_y.png
+#map_d textures/large_fern_bottom_y.png
+# illum 2
+# d 1
+# Tr 0
+
+newmtl large_fern_top
+# Ns 0
+# Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0 0 0
+# map_Ka textures/large_fern_top_y.png
+# for G3D, to make textures look blocky:
+interpolateMode NEAREST_MAGNIFICATION_TRILINEAR_MIPMAP_MINIFICATION
+map_Kd textures/large_fern_top_y.png
+#map_d textures/large_fern_top_y.png
+# illum 2
+# d 1
+# Tr 0
+
+newmtl rose_bush_bottom
+# Ns 0
+# Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0 0 0
+# map_Ka textures/rose_bush_bottom.png
+# for G3D, to make textures look blocky:
+interpolateMode NEAREST_MAGNIFICATION_TRILINEAR_MIPMAP_MINIFICATION
+map_Kd textures/rose_bush_bottom.png
+#map_d textures/rose_bush_bottom.png
+# illum 2
+# d 1
+# Tr 0
+
+newmtl rose_bush_top
+# Ns 0
+# Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0 0 0
+# map_Ka textures/rose_bush_top.png
+# for G3D, to make textures look blocky:
+interpolateMode NEAREST_MAGNIFICATION_TRILINEAR_MIPMAP_MINIFICATION
+map_Kd textures/rose_bush_top.png
+#map_d textures/rose_bush_top.png
+# illum 2
+# d 1
+# Tr 0
+
+newmtl peony_bottom
+# Ns 0
+# Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0 0 0
+# map_Ka textures/peony_bottom.png
+# for G3D, to make textures look blocky:
+interpolateMode NEAREST_MAGNIFICATION_TRILINEAR_MIPMAP_MINIFICATION
+map_Kd textures/peony_bottom.png
+#map_d textures/peony_bottom.png
+# illum 2
+# d 1
+# Tr 0
+
+newmtl peony_top
+# Ns 0
+# Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0 0 0
+# map_Ka textures/peony_top.png
+# for G3D, to make textures look blocky:
+interpolateMode NEAREST_MAGNIFICATION_TRILINEAR_MIPMAP_MINIFICATION
+map_Kd textures/peony_top.png
+#map_d textures/peony_top.png
+# illum 2
+# d 1
+# Tr 0
+
+newmtl blue_orchid
+# Ns 0
+# Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0 0 0
+# map_Ka textures/blue_orchid.png
+# for G3D, to make textures look blocky:
+interpolateMode NEAREST_MAGNIFICATION_TRILINEAR_MIPMAP_MINIFICATION
+map_Kd textures/blue_orchid.png
+#map_d textures/blue_orchid.png
+# illum 2
+# d 1
+# Tr 0
+
+newmtl allium
+# Ns 0
+# Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0 0 0
+# map_Ka textures/allium.png
+# for G3D, to make textures look blocky:
+interpolateMode NEAREST_MAGNIFICATION_TRILINEAR_MIPMAP_MINIFICATION
+map_Kd textures/allium.png
+#map_d textures/allium.png
+# illum 2
+# d 1
+# Tr 0
+
+newmtl azure_bluet
+# Ns 0
+# Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0 0 0
+# map_Ka textures/azure_bluet.png
+# for G3D, to make textures look blocky:
+interpolateMode NEAREST_MAGNIFICATION_TRILINEAR_MIPMAP_MINIFICATION
+map_Kd textures/azure_bluet.png
+#map_d textures/azure_bluet.png
+# illum 2
+# d 1
+# Tr 0
+
+newmtl red_tulip
+# Ns 0
+# Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0 0 0
+# map_Ka textures/red_tulip.png
+# for G3D, to make textures look blocky:
+interpolateMode NEAREST_MAGNIFICATION_TRILINEAR_MIPMAP_MINIFICATION
+map_Kd textures/red_tulip.png
+#map_d textures/red_tulip.png
+# illum 2
+# d 1
+# Tr 0
+
+newmtl orange_tulip
+# Ns 0
+# Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0 0 0
+# map_Ka textures/orange_tulip.png
+# for G3D, to make textures look blocky:
+interpolateMode NEAREST_MAGNIFICATION_TRILINEAR_MIPMAP_MINIFICATION
+map_Kd textures/orange_tulip.png
+#map_d textures/orange_tulip.png
+# illum 2
+# d 1
+# Tr 0
+
+newmtl oxeye_daisy
+# Ns 0
+# Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0 0 0
+# map_Ka textures/oxeye_daisy.png
+# for G3D, to make textures look blocky:
+interpolateMode NEAREST_MAGNIFICATION_TRILINEAR_MIPMAP_MINIFICATION
+map_Kd textures/oxeye_daisy.png
+#map_d textures/oxeye_daisy.png
+# illum 2
+# d 1
+# Tr 0
+
+newmtl orange_stained_glass
+# Ns 0
+# Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0 0 0
+# map_Ka textures/orange_stained_glass.png
+# for G3D, to make textures look blocky:
+interpolateMode NEAREST_MAGNIFICATION_TRILINEAR_MIPMAP_MINIFICATION
+map_Kd textures/orange_stained_glass.png
+#map_d textures/orange_stained_glass.png
+# illum 2
+# d 1
+# Tr 0
+
+newmtl magenta_stained_glass
+# Ns 0
+# Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0 0 0
+# map_Ka textures/magenta_stained_glass.png
+# for G3D, to make textures look blocky:
+interpolateMode NEAREST_MAGNIFICATION_TRILINEAR_MIPMAP_MINIFICATION
+map_Kd textures/magenta_stained_glass.png
+#map_d textures/magenta_stained_glass.png
+# illum 2
+# d 1
+# Tr 0
+
+newmtl yellow_stained_glass
+# Ns 0
+# Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0 0 0
+# map_Ka textures/yellow_stained_glass.png
+# for G3D, to make textures look blocky:
+interpolateMode NEAREST_MAGNIFICATION_TRILINEAR_MIPMAP_MINIFICATION
+map_Kd textures/yellow_stained_glass.png
+#map_d textures/yellow_stained_glass.png
+# illum 2
+# d 1
+# Tr 0
+
+newmtl lime_stained_glass
+# Ns 0
+# Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0 0 0
+# map_Ka textures/lime_stained_glass.png
+# for G3D, to make textures look blocky:
+interpolateMode NEAREST_MAGNIFICATION_TRILINEAR_MIPMAP_MINIFICATION
+map_Kd textures/lime_stained_glass.png
+#map_d textures/lime_stained_glass.png
+# illum 2
+# d 1
+# Tr 0
+
+newmtl light_gray_stained_glass
+# Ns 0
+# Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0 0 0
+# map_Ka textures/light_gray_stained_glass.png
+# for G3D, to make textures look blocky:
+interpolateMode NEAREST_MAGNIFICATION_TRILINEAR_MIPMAP_MINIFICATION
+map_Kd textures/light_gray_stained_glass.png
+#map_d textures/light_gray_stained_glass.png
+# illum 2
+# d 1
+# Tr 0
+
+newmtl red_stained_glass
+# Ns 0
+# Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0 0 0
+# map_Ka textures/red_stained_glass.png
+# for G3D, to make textures look blocky:
+interpolateMode NEAREST_MAGNIFICATION_TRILINEAR_MIPMAP_MINIFICATION
+map_Kd textures/red_stained_glass.png
+#map_d textures/red_stained_glass.png
+# illum 2
+# d 1
+# Tr 0
+
+newmtl black_stained_glass
+# Ns 0
+# Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0 0 0
+# map_Ka textures/black_stained_glass.png
+# for G3D, to make textures look blocky:
+interpolateMode NEAREST_MAGNIFICATION_TRILINEAR_MIPMAP_MINIFICATION
+map_Kd textures/black_stained_glass.png
+#map_d textures/black_stained_glass.png
+# illum 2
+# d 1
+# Tr 0
+
+newmtl light_gray_stained_glass_pane_top
+# Ns 0
+# Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0 0 0
+# map_Ka textures/light_gray_stained_glass_pane_top.png
+# for G3D, to make textures look blocky:
+interpolateMode NEAREST_MAGNIFICATION_TRILINEAR_MIPMAP_MINIFICATION
+map_Kd textures/light_gray_stained_glass_pane_top.png
+#map_d textures/light_gray_stained_glass_pane_top.png
+# illum 2
+# d 1
+# Tr 0
+
+newmtl black_stained_glass_pane_top
+# Ns 0
+# Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0 0 0
+# map_Ka textures/black_stained_glass_pane_top.png
+# for G3D, to make textures look blocky:
+interpolateMode NEAREST_MAGNIFICATION_TRILINEAR_MIPMAP_MINIFICATION
+map_Kd textures/black_stained_glass_pane_top.png
+#map_d textures/black_stained_glass_pane_top.png
+# illum 2
+# d 1
+# Tr 0
+
+newmtl acacia_planks
+# Ns 0
+# Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0 0 0
+# map_Ka textures/acacia_planks.png
+# for G3D, to make textures look blocky:
+interpolateMode NEAREST_MAGNIFICATION_TRILINEAR_MIPMAP_MINIFICATION
+map_Kd textures/acacia_planks.png
+# illum 2
+# d 1
+# Tr 0
+
+newmtl dark_oak_planks
+# Ns 0
+# Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0 0 0
+# map_Ka textures/dark_oak_planks.png
+# for G3D, to make textures look blocky:
+interpolateMode NEAREST_MAGNIFICATION_TRILINEAR_MIPMAP_MINIFICATION
+map_Kd textures/dark_oak_planks.png
+# illum 2
+# d 1
+# Tr 0
+
+newmtl iron_trapdoor
+# Ns 0
+# Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0 0 0
+# map_Ka textures/iron_trapdoor.png
+# for G3D, to make textures look blocky:
+interpolateMode NEAREST_MAGNIFICATION_TRILINEAR_MIPMAP_MINIFICATION
+map_Kd textures/iron_trapdoor.png
+#map_d textures/iron_trapdoor.png
+# illum 2
+# d 1
+# Tr 0
+
+newmtl slime_block
+# Ns 0
+# Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0.03 0.03 0.03
+# map_Ka textures/slime_block.png
+# for G3D, to make textures look blocky:
+interpolateMode NEAREST_MAGNIFICATION_TRILINEAR_MIPMAP_MINIFICATION
+map_Kd textures/slime_block.png
+#map_d textures/slime_block.png
+# illum 4
+# d 0.7
+# Tr 0.3
+# Tf 0.3 0.3 0.3
+
+newmtl andesite
+# Ns 0
+# Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0 0 0
+# map_Ka textures/andesite.png
+# for G3D, to make textures look blocky:
+interpolateMode NEAREST_MAGNIFICATION_TRILINEAR_MIPMAP_MINIFICATION
+map_Kd textures/andesite.png
+# illum 2
+# d 1
+# Tr 0
+
+newmtl polished_andesite
+# Ns 0
+# Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0 0 0
+# map_Ka textures/polished_andesite.png
+# for G3D, to make textures look blocky:
+interpolateMode NEAREST_MAGNIFICATION_TRILINEAR_MIPMAP_MINIFICATION
+map_Kd textures/polished_andesite.png
+#map_d textures/polished_andesite.png
+# illum 2
+# d 1
+# Tr 0
+
+newmtl diorite
+# Ns 0
+# Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0 0 0
+# map_Ka textures/diorite.png
+# for G3D, to make textures look blocky:
+interpolateMode NEAREST_MAGNIFICATION_TRILINEAR_MIPMAP_MINIFICATION
+map_Kd textures/diorite.png
+#map_d textures/diorite.png
+# illum 2
+# d 1
+# Tr 0
+
+newmtl polished_diorite
+# Ns 0
+# Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0 0 0
+# map_Ka textures/polished_diorite.png
+# for G3D, to make textures look blocky:
+interpolateMode NEAREST_MAGNIFICATION_TRILINEAR_MIPMAP_MINIFICATION
+map_Kd textures/polished_diorite.png
+#map_d textures/polished_diorite.png
+# illum 2
+# d 1
+# Tr 0
+
+newmtl granite
+# Ns 0
+# Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0 0 0
+# map_Ka textures/granite.png
+# for G3D, to make textures look blocky:
+interpolateMode NEAREST_MAGNIFICATION_TRILINEAR_MIPMAP_MINIFICATION
+map_Kd textures/granite.png
+#map_d textures/granite.png
+# illum 2
+# d 1
+# Tr 0
+
+newmtl polished_granite
+# Ns 0
+# Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0 0 0
+# map_Ka textures/polished_granite.png
+# for G3D, to make textures look blocky:
+interpolateMode NEAREST_MAGNIFICATION_TRILINEAR_MIPMAP_MINIFICATION
+map_Kd textures/polished_granite.png
+#map_d textures/polished_granite.png
+# illum 2
+# d 1
+# Tr 0
+
+newmtl dark_prismarine
+# Ns 0
+# Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0 0 0
+# map_Ka textures/dark_prismarine.png
+# for G3D, to make textures look blocky:
+interpolateMode NEAREST_MAGNIFICATION_TRILINEAR_MIPMAP_MINIFICATION
+map_Kd textures/dark_prismarine.png
+# illum 2
+# d 1
+# Tr 0
+
+newmtl prismarine
+# Ns 0
+# Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0 0 0
+# map_Ka textures/prismarine.png
+# for G3D, to make textures look blocky:
+interpolateMode NEAREST_MAGNIFICATION_TRILINEAR_MIPMAP_MINIFICATION
+map_Kd textures/prismarine.png
+# illum 2
+# d 1
+# Tr 0
+
+newmtl sea_lantern
+# Ns 0
+# Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0 0 0
+Ke 1 1 1
+# map_Ka textures/sea_lantern.png
+# for G3D, to make textures look blocky:
+interpolateMode NEAREST_MAGNIFICATION_TRILINEAR_MIPMAP_MINIFICATION
+map_Kd textures/sea_lantern.png
+map_Ke textures/sea_lantern.png
+# illum 2
+# d 1
+# Tr 0
+
+newmtl spruce_door_bottom
+# Ns 0
+# Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0 0 0
+# map_Ka textures/spruce_door_bottom.png
+# for G3D, to make textures look blocky:
+interpolateMode NEAREST_MAGNIFICATION_TRILINEAR_MIPMAP_MINIFICATION
+map_Kd textures/spruce_door_bottom.png
+#map_d textures/spruce_door_bottom.png
+# illum 2
+# d 1
+# Tr 0
+
+newmtl spruce_door_top
+# Ns 0
+# Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0 0 0
+# map_Ka textures/spruce_door_top.png
+# for G3D, to make textures look blocky:
+interpolateMode NEAREST_MAGNIFICATION_TRILINEAR_MIPMAP_MINIFICATION
+map_Kd textures/spruce_door_top.png
+#map_d textures/spruce_door_top.png
+# illum 2
+# d 1
+# Tr 0
+
+newmtl dark_oak_door_bottom
+# Ns 0
+# Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0 0 0
+# map_Ka textures/dark_oak_door_bottom.png
+# for G3D, to make textures look blocky:
+interpolateMode NEAREST_MAGNIFICATION_TRILINEAR_MIPMAP_MINIFICATION
+map_Kd textures/dark_oak_door_bottom.png
+#map_d textures/dark_oak_door_bottom.png
+# illum 2
+# d 1
+# Tr 0
+
+newmtl dark_oak_door_top
+# Ns 0
+# Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0 0 0
+# map_Ka textures/dark_oak_door_top.png
+# for G3D, to make textures look blocky:
+interpolateMode NEAREST_MAGNIFICATION_TRILINEAR_MIPMAP_MINIFICATION
+map_Kd textures/dark_oak_door_top.png
+#map_d textures/dark_oak_door_top.png
+# illum 2
+# d 1
+# Tr 0
+
+newmtl smooth_stone
+# Ns 0
+# Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0 0 0
+# map_Ka textures/smooth_stone.png
+# for G3D, to make textures look blocky:
+interpolateMode NEAREST_MAGNIFICATION_TRILINEAR_MIPMAP_MINIFICATION
+map_Kd textures/smooth_stone.png
+# illum 2
+# d 1
+# Tr 0
+
+newmtl smooth_stone_slab_side
+# Ns 0
+# Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0 0 0
+# map_Ka textures/smooth_stone_slab_side.png
+# for G3D, to make textures look blocky:
+interpolateMode NEAREST_MAGNIFICATION_TRILINEAR_MIPMAP_MINIFICATION
+map_Kd textures/smooth_stone_slab_side.png
+#map_d textures/smooth_stone_slab_side.png
+# illum 2
+# d 1
+# Tr 0
+
+newmtl end_rod
+# Ns 0
+# Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0 0 0
+Ke 0.901686 0.901686 0.901686
+# map_Ka textures/end_rod.png
+# for G3D, to make textures look blocky:
+interpolateMode NEAREST_MAGNIFICATION_TRILINEAR_MIPMAP_MINIFICATION
+map_Kd textures/end_rod.png
+map_Ke textures/end_rod.png
+# illum 2
+# d 1
+# Tr 0
+
+newmtl MWO_chest_latch
+# Ns 0
+# Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0 0 0
+# map_Ka textures/MWO_chest_latch.png
+# for G3D, to make textures look blocky:
+interpolateMode NEAREST_MAGNIFICATION_TRILINEAR_MIPMAP_MINIFICATION
+map_Kd textures/MWO_chest_latch.png
+#map_d textures/MWO_chest_latch.png
+# illum 2
+# d 1
+# Tr 0
+
+newmtl water_flow
+# Ns 0
+# Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0.03 0.03 0.03
+# map_Ka textures/water_flow_y.png
+# for G3D, to make textures look blocky:
+interpolateMode NEAREST_MAGNIFICATION_TRILINEAR_MIPMAP_MINIFICATION
+map_Kd textures/water_flow_y.png
+#map_d textures/water_flow_y.png
+# illum 4
+# d 0.535
+# Tr 0.465
+# Tf 0.465 0.465 0.465
+
+newmtl MWO_redstone_dust_dot_off
+# Ns 0
+# Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0 0 0
+# map_Ka textures/MWO_redstone_dust_dot_off.png
+# for G3D, to make textures look blocky:
+interpolateMode NEAREST_MAGNIFICATION_TRILINEAR_MIPMAP_MINIFICATION
+map_Kd textures/MWO_redstone_dust_dot_off.png
+#map_d textures/MWO_redstone_dust_dot_off.png
+# illum 2
+# d 1
+# Tr 0
+
+newmtl orange_shulker_box
+# Ns 0
+# Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0 0 0
+# map_Ka textures/orange_shulker_box.png
+# for G3D, to make textures look blocky:
+interpolateMode NEAREST_MAGNIFICATION_TRILINEAR_MIPMAP_MINIFICATION
+map_Kd textures/orange_shulker_box.png
+# illum 2
+# d 1
+# Tr 0
+
+newmtl yellow_concrete
+# Ns 0
+# Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0 0 0
+# map_Ka textures/yellow_concrete.png
+# for G3D, to make textures look blocky:
+interpolateMode NEAREST_MAGNIFICATION_TRILINEAR_MIPMAP_MINIFICATION
+map_Kd textures/yellow_concrete.png
+# illum 2
+# d 1
+# Tr 0
+
+newmtl lime_concrete
+# Ns 0
+# Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0 0 0
+# map_Ka textures/lime_concrete.png
+# for G3D, to make textures look blocky:
+interpolateMode NEAREST_MAGNIFICATION_TRILINEAR_MIPMAP_MINIFICATION
+map_Kd textures/lime_concrete.png
+# illum 2
+# d 1
+# Tr 0
+
+newmtl cyan_concrete
+# Ns 0
+# Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0 0 0
+# map_Ka textures/cyan_concrete.png
+# for G3D, to make textures look blocky:
+interpolateMode NEAREST_MAGNIFICATION_TRILINEAR_MIPMAP_MINIFICATION
+map_Kd textures/cyan_concrete.png
+# illum 2
+# d 1
+# Tr 0
+
+newmtl brown_concrete
+# Ns 0
+# Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0 0 0
+# map_Ka textures/brown_concrete.png
+# for G3D, to make textures look blocky:
+interpolateMode NEAREST_MAGNIFICATION_TRILINEAR_MIPMAP_MINIFICATION
+map_Kd textures/brown_concrete.png
+# illum 2
+# d 1
+# Tr 0
+
+newmtl shulker_side_orange
+# Ns 0
+# Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0 0 0
+# map_Ka textures/shulker_side_orange.png
+# for G3D, to make textures look blocky:
+interpolateMode NEAREST_MAGNIFICATION_TRILINEAR_MIPMAP_MINIFICATION
+map_Kd textures/shulker_side_orange.png
+#map_d textures/shulker_side_orange.png
+# illum 2
+# d 1
+# Tr 0
